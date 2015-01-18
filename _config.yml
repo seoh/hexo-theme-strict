@@ -1,8 +1,8 @@
 # head
 menu:
-  Home: /
-  Archives: /archives
-rss: /rss.xml
+  Home: /blog/
+  Archives: /blog/archives
+rss: /blog/rss.xml
 favicon: /favicon.png
 
 # main
